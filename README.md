@@ -1,6 +1,12 @@
 ### Hi there 👋, Md Faysal Hossain
 #### Web Developer
-I am a front-end Web developer from Bangladesh. Building modern and efficient websites for people that need them is something I really enjoy. I have experience of 1 year in the field of Website designing and development. I will help you with: 1.Html5 2.Css3 3.Boostrap 4 and 5 4.javaScript
+I am a front-end Web developer from Bangladesh. Building modern and efficient websites for people that need them is something I really enjoy. I have experience of 1 year in the field of Website designing and development. 
+I will help you with:
+1.Html5
+2.Css3 
+3.Boostrap 
+4.javaScript
+5. PHP
 
 Skills:  HTML / CSS/JS /PHP /WORDPRESS
 
